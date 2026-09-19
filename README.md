@@ -11,6 +11,5 @@ Projects
 Linux Project
 A small multi-page website covering Linux basics, distributions and useful commands.
 
-Currently
-
+Currently:
 Learning by building things, breaking them, and figuring out why they broke.
